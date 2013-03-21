@@ -1,0 +1,137 @@
+body{padding:0px; margin:0px; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:12px; color:#6D6D6D; color:#333333; background-image: url(file://///DOITSERVER/doitserver/sree/doit/images/bg.jpg); background-repeat:repeat-x;}
+div{padding:0px; margin:0px; font-size:12px;}
+img {border:none; padding:0px; margin:0px;}
+form{padding:0px; margin:0px;}
+
+ td.a1 {
+	margin:0
+}
+p { padding:0 5px;}
+p.b1 {
+	font-size:100%;
+	font-family:Arial, Helvetica, sans-serif;
+	text-decoration:none;
+}
+p.b2 {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:80%
+}
+p.b3 {
+font-family:Arial, Helvetica, sans-serif;
+	font-size:90%;
+}
+
+p.b4 {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:80%;
+}
+.style1 {
+	color: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+
+.style1 {
+	color: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	padding-left:10px;
+	font-weight: bold;
+}
+
+.style2 {
+	color: #FF0000
+}
+.style3 {
+	color: #0066FF
+}
+.style4 {
+	color: #000000
+} 
+
+.style5 {
+font-family: Arial, Helvetica, sans-serif;
+	color: #000000;
+	font-weight: bold;
+}
+.style6 {
+font-family: Arial, Helvetica, sans-serif;
+	color: #0066FF
+}
+.style7 {
+font-family: Arial, Helvetica, sans-serif;
+	color: #D4D0C8
+}
+.style8 {
+font-family: Arial, Helvetica, sans-serif;
+	color: #00FFFF;
+}
+.style9 {
+font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px
+}
+.style10 {
+	color: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	padding-left:10px;
+	font-weight: bold;
+}
+.style11 {
+     font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+.style12 {
+       font-family: Arial, Helvetica, sans-serif;
+	color: #CC0033
+}
+.contactHd {
+	color:#187d9b;
+	font:bold 18px Arial, Verdana, Helvetica, sans-serif;
+}
+.submit-bg {
+	background:url(../images/home/images/send.gif) left top repeat-x;
+	border:none;
+	color:#FFFFFF;
+	font-weight:bold;
+	padding:3px 8px 10px 8px;
+	height:32px;
+	width:81px;
+	cursor:pointer;
+}
+
+ nav ul {
+	float: left;
+	margin:0;
+	padding:0;
+	
+}
+nav ul li {
+	background: none;
+	float: left;  
+	margin-left: 20px;
+	padding: 0;
+	list-style:none;
+}
+nav ul li.spacer {
+	padding-right: 15px;
+	background: url("../images/spacer.png") center no-repeat;
+}
+nav ul li a {
+	color: #FFF;
+	font-size: 12px;
+	text-transform: uppercase;
+	text-decoration: none;
+	text-shadow: 0px 2px 0px #000;
+}
+nav ul li a:hover {
+	color: #e34c37;
+	text-decoration: underline;
+}
+nav ul li a:active {
+	top: 1px;
+	position: relative;
+	text-shadow: 0px 0px 0px #000;
+}
